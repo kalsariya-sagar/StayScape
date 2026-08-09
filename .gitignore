@@ -1,0 +1,34 @@
+# Root Safety Catch-all
+
+# Dependencies (Any level)
+node_modules/
+**/node_modules/
+
+# Build Outputs (Any level)
+dist/
+**/dist/
+build/
+**/build/
+
+# Environment Files (CRITICAL PROTECTION)
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+*.log
+**/logs/
+
+# Operating System & Editor Files
+.DS_Store
+**/.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

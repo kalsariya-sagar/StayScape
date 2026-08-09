@@ -8,7 +8,7 @@ StayScape is a modern full-stack vacation rental platform where users can discov
 
 ## 🔗 Project Links
 
-- **Live Demo:** [StayScape](https://stay-scape-ten.vercel.app)
+- **Live Demo:** [StayScape Application](https://stay-scape-ten.vercel.app)
 - **GitHub Repository:** [StayScape GitHub](https://github.com/kalsariya-sagar/StayScape)
 
 ---
